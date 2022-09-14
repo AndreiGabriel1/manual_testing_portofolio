@@ -75,7 +75,7 @@ Various periodic reports were generated to reflect the current status of the tes
 
 
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+The testing process will be executed based on the above requirements for the Job Title module. The following test conditions were found:
 
 * Enter data only for mandatory fields and check that the Job Title is created/updated
 * Enter data for all available fields and check that the Job Title is created/updated
