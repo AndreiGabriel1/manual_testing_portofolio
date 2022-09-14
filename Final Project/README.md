@@ -14,7 +14,8 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 -> enter here the functional specifications created in JIRA
 
-![Screenshot (3)](https://user-images.githubusercontent.com/112575548/190159367-4e52ea12-95eb-4531-bad2-281b2e63cf6c.png)
+
+![ss jira story](https://user-images.githubusercontent.com/112575548/190161208-cadfb173-0609-424c-acc5-5857cff55473.png)
 
 
 
