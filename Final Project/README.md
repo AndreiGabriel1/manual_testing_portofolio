@@ -25,17 +25,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
-Project manager - Ionut Mihai
-Product owner - Madalina Ionescu
-Software developer - Laura Constantinescu
-QA Engineer - Andrei-Gabriel Dinu
+* Project manager - Ionut Mihai
+* Product owner - Madalina Ionescu
+* Software developer - Laura Constantinescu
+* QA Engineer - Andrei-Gabriel Dinu
 
 
 #### 1.1.2 Entry criteria defined
 
-functional specifications are defined
-roles needed for the project are allocated
-initial project risks were detected and mitigated
+* functional specifications are defined
+* roles needed for the project are allocated
+* initial project risks were detected and mitigated
 
 
 
