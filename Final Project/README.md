@@ -70,6 +70,20 @@ It will be done by generating periodic reports that reflect the current status o
 
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on 14th of September 2022:
 
+
+
+
+
+
+The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+
+* Enter data only for mandatory fields and check that the Job Title is created/updated
+* Enter data for all available fields and check that the Job Title is created/updated
+* Leave mandatory fields empty and check that the Job title cannot be created/updated
+* View Job Title details and check if they are correct
+* View all Job Titles in a list
+* Check all validation constraints for the fields
+
 ## 1.3 Test Analysis
 
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
