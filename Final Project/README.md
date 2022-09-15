@@ -23,7 +23,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe all details of testing for the Job Titles module from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
@@ -51,7 +51,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests in scope:__ All the feature of Job Titles module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 * __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
@@ -85,7 +85,7 @@ The testing process will be executed based on the above requirements for the Job
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+The testing process will be executed based on the above requirements for the Job Titles module. The following test conditions were found:
  * Enter test conditions here
 
 ## 1.4 Test Design
