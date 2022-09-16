@@ -81,7 +81,7 @@ Various periodic reports were generated to reflect the current status of the tes
 ## 1.3 Test Analysis
 
 The testing process will be executed based on the above requirements for the Job Titles module. The following test conditions were found:
- * * Enter data only for mandatory fields and check that the Job Title is created/updated
+* Enter data only for mandatory fields and check that the Job Title is created/updated
 * Enter data for all available fields and check that the Job Title is created/updated
 * Leave mandatory fields empty and check that the Job title cannot be created/updated
 * View Job Title details and check if they are correct
