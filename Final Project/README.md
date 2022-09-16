@@ -12,7 +12,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
--> As an admin I want to manage Job Titles.
+As an admin I want to manage Job Titles.
 
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/112575548/190595295-3a87ae81-a467-4d5e-95dc-c272659c11f5.png)
