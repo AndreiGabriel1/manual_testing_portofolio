@@ -96,7 +96,7 @@ are:
 -> enter here test cases or at least the titles
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/AndreiGabriel1/manual_testing_portofolio/blob/main/Final%20Project/New%20Text%20Document.txt)
 
 ## 1.5 Test Implementation
 
