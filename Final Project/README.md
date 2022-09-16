@@ -93,7 +93,8 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
-(https://github.com/AndreiGabriel1/manual_testing_portofolio/blob/main/Final%20Project/Screenshot%20(13).png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/112575548/190664480-cf7c6b4b-836c-4fdc-a799-5480dd54bfa5.png)
 
 
 The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/AndreiGabriel1/manual_testing_portofolio/blob/main/Final%20Project/filtrare%20test%20cases.pdf)
