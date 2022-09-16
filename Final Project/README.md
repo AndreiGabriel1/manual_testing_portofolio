@@ -128,7 +128,8 @@ The following elements are needed to be ready before the test execution phase be
 * A total of 13 tests were planned for execution and all of the have been executed.
 * A total of 3 total bugs were found, from which the priority is : all 3 of them are medium
 
-![test_execution_by_cycle](https://user-images.githubusercontent.com/112575548/190669088-c9d7632f-75e2-41bc-9fb2-8e2bc538d41d.png)
+
+![test_execution_by_cycle](https://user-images.githubusercontent.com/112575548/190670451-78e95ae9-c4f2-40e2-87ad-09d8c1e38a18.png)
 
 
 # 2 SQL section
