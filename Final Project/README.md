@@ -12,10 +12,11 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+-> As an admin, I want to manage Job Titles.
 
 
-![ss jira story](https://user-images.githubusercontent.com/112575548/190161208-cadfb173-0609-424c-acc5-5857cff55473.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/112575548/190595295-3a87ae81-a467-4d5e-95dc-c272659c11f5.png)
+
 
 
 
