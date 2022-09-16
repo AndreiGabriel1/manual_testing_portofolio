@@ -71,10 +71,9 @@ It will be done by generating periodic reports that reflect the current status o
 
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after the test cases were executed, on 14th of September 2022:
 
-![Screenshot (6)](https://user-images.githubusercontent.com/112575548/190201461-2322c1a6-ba1a-486b-b3ca-0524daaa0aff.png)
 
 
-
+![Screenshot (10)](https://user-images.githubusercontent.com/112575548/190607424-4d21e493-c8e1-48ad-875f-586105994098.png)
 
 
 
