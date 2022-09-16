@@ -110,8 +110,12 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/AndreiGabriel1/manual_testing_portofolio/blob/main/Final%20Project/Job_Titles_cycle_summary_execution.pdf)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/AndreiGabriel1/manual_testing_portofolio/blob/main/Final%20Project/Job_Titles_Created_Bugs.pdf)
+    *  job title mandatory field accepts max 30 characters
+    *  verify that Job Title accepts only alphabetical characters
+    *  A job title doens't accepts alphabetical characters
+    
+    
 
 
 ## 1.7 Test Completion
