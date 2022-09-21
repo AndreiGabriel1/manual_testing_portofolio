@@ -15,7 +15,8 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 As an admin I want to manage Job Titles.
 
 
-![Screenshot (8)](https://user-images.githubusercontent.com/112575548/190595295-3a87ae81-a467-4d5e-95dc-c272659c11f5.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/112575548/191447776-0082ce19-9662-4778-b8a3-32f1b2b94e38.png)
 
 
 
