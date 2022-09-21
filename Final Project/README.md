@@ -139,5 +139,5 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
-Created a database named 'orangehrm' and a table named 'JobTitles' with all the columns needed to save data per specifications. Performed different queries inside the sql file: https://github.com/AndreiGabriel1/manual_testing_portofolio/blob/main/Final%20Project/JobTitles.sql
+Created a database named 'orangehrm' and a table named 'JobTitles' with all the columns needed to save data per specifications. Performed different queries inside the sql file: ![JobTitles](https://github.com/AndreiGabriel1/manual_testing_portofolio/blob/main/Final%20Project/JobTitles.sql)
 
