@@ -1,3 +1,5 @@
+powershell -Command "$md=@'
+
 \# Manual Testing Portfolio — Andrei-Gabriel Dinu
 
 
@@ -171,6 +173,8 @@ manual\_testing\_portofolio/
 > Note: Former forked templates/examples were consolidated here for clarity.  
 
 > Older forks are archived and point back to this canonical repository.
+
+'@; Set-Content -Path README.md -Value $md -Encoding UTF8"
 
 
 
