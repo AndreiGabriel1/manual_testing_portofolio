@@ -19,6 +19,7 @@ Goal: show how I approach requirements, create traceable test assets, and report
 ## 🧭 Repository Structure
 
 ```text
+
 manual_testing_portofolio/
 ├─ 01_test_design/            # notes & small examples (EP, BVA, decision tables, state transition)
 ├─ 02_test_cases/             # test cases (spreadsheets / CSV / samples in MD)
@@ -29,6 +30,7 @@ manual_testing_portofolio/
 │  ├─ bug_reports/            # consolidated bug reports
 │  └─ evidence/               # execution evidence (screens / PDFs)
 └─ 99_templates/              # reusable templates
+
 ```
 ---
 
