@@ -1,5 +1,3 @@
-powershell -Command "$md=@'
-
 \# Manual Testing Portfolio — Andrei-Gabriel Dinu
 
 
@@ -140,7 +138,7 @@ manual\_testing\_portofolio/
 
 
 
-\- \*\*Docs/Spreadsheets:\*\* PDF, CSV, XLSX, Markdown  
+\- \*\*Docs/Spreadsheets:\*\* PDF, CSV, XLSX,  
 
 \- \*\*API:\*\* Postman collection (`.json`)  
 
