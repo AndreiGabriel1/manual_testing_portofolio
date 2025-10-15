@@ -16,6 +16,24 @@ Goal: show how I approach requirements, create traceable test assets, and report
 
 
 
+\## Quick links
+
+\- Final project overview → \[`04\_final\_project/`](./04\_final\_project/)
+
+\- Docs \& traceability → \[`04\_final\_project/docs/`](./04\_final\_project/docs/)
+
+\- Test cases → \[`04\_final\_project/test\_cases/`](./04\_final\_project/test\_cases/)
+
+\- Bug reports → \[`04\_final\_project/bug\_reports/`](./04\_final\_project/bug\_reports/)
+
+\- Evidence → \[`04\_final\_project/evidence/`](./04\_final\_project/evidence/)
+
+
+
+---
+
+
+
 \## 🧭 Repository Structure
 
 
@@ -44,51 +62,51 @@ manual\_testing\_portofolio/
 
 ---
 
-
-
-\*\*Start here:\*\* \[`04\_final\_project/`](./04\_final\_project/) → see \[`docs/`](./04\_final\_project/docs/) and \[`test\_cases/`](./04\_final\_project/test\_cases/).
-
-
-
----
-
-
-
 \## ✨ Highlights
 
 
 
-\- \*\*Requirements → Test Assets → Traceability\*\*
+\- \*\*Requirements → Test Assets → Traceability\*\*  
 
-&nbsp; - \[`Traceability\_matrix.xlsx`](./04\_final\_project/docs/Traceability\_matrix.xlsx) aligns test cases to requirements.
+&nbsp; \[`Traceability\_matrix.xlsx`](./04\_final\_project/docs/Traceability\_matrix.xlsx) aligns test cases to requirements.
 
-\- \*\*Test Design Techniques\*\*
 
-&nbsp; - Equivalence Partitioning, Boundary Value Analysis, Decision Tables, State Transitions (see `01\_test\_design/`).
 
-\- \*\*Test Cases (Readable \& Executable)\*\*
+\- \*\*Test Design Techniques\*\*  
 
-&nbsp; - Final project cases: \[`Dependents\_test\_cases.pdf`](./04\_final\_project/test\_cases/Dependents\_test\_cases.pdf)  
+&nbsp; Equivalence Partitioning, Boundary Value Analysis, Decision Tables, State Transitions (see `01\_test\_design/`).
 
-&nbsp; - Checklist: \[`API\_test\_checklist.csv`](./04\_final\_project/test\_cases/API\_test\_checklist.csv)
 
-\- \*\*Bug Reports (Dev-friendly)\*\*
 
-&nbsp; - Repro steps, expected vs actual, severity/priority, attachments:  
+\- \*\*Test Cases (Readable \& Executable)\*\*  
 
-&nbsp;   \[`Dependents\_created\_bugs.pdf`](./04\_final\_project/bug\_reports/Dependents\_created\_bugs.pdf)
+&nbsp; Final project cases: \[`Dependents\_test\_cases.pdf`](./04\_final\_project/test\_cases/Dependents\_test\_cases.pdf)  
 
-\- \*\*API Testing\*\*
+&nbsp; Checklist: \[`API\_test\_checklist.csv`](./04\_final\_project/test\_cases/API\_test\_checklist.csv)
 
-&nbsp; - Postman collection: \[`OrangeHRM API - Dependents.postman\_collection.json`](./04\_final\_project/docs/OrangeHRM%20API%20-%20Dependents.postman\_collection.json)
 
-&nbsp; - Data setup: \[`dependents.sql`](./04\_final\_project/docs/dependents.sql)
 
-\- \*\*Execution Evidence\*\*
+\- \*\*Bug Reports (Dev-friendly)\*\*  
 
-&nbsp; - Summary: \[`Dependents\_cycle\_summary\_execution.pdf`](./04\_final\_project/docs/Dependents\_cycle\_summary\_execution.pdf)  
+&nbsp; Repro steps, expected vs actual, severity/priority, attachments:  
 
-&nbsp; - Extra practice artifacts in \[`evidence/`](./04\_final\_project/evidence/) și `03\_bugs\_reports/`.
+&nbsp; \[`Dependents\_created\_bugs.pdf`](./04\_final\_project/bug\_reports/Dependents\_created\_bugs.pdf)
+
+
+
+\- \*\*API Testing\*\*  
+
+&nbsp; Postman collection: \[`OrangeHRM API - Dependents.postman\_collection.json`](./04\_final\_project/docs/OrangeHRM%20API%20-%20Dependents.postman\_collection.json)  
+
+&nbsp; Data setup: \[`dependents.sql`](./04\_final\_project/docs/dependents.sql)
+
+
+
+\- \*\*Execution Evidence\*\*  
+
+&nbsp; Summary: \[`Dependents\_cycle\_summary\_execution.pdf`](./04\_final\_project/docs/Dependents\_cycle\_summary\_execution.pdf)  
+
+&nbsp; Extra practice artifacts in \[`evidence/`](./04\_final\_project/evidence/) and `03\_bugs\_reports/`.
 
 
 
@@ -100,13 +118,13 @@ manual\_testing\_portofolio/
 
 
 
-1\. \*\*Glance the scope \& traceability\*\* → \[`04\_final\_project/docs/`](./04\_final\_project/docs/)
+1\. \*\*Glance the scope \& traceability\*\* → \[`04\_final\_project/docs/`](./04\_final\_project/docs/)  
 
-2\. \*\*Scan the test cases\*\* → \[`04\_final\_project/test\_cases/`](./04\_final\_project/test\_cases/)
+2\. \*\*Scan the test cases\*\* → \[`04\_final\_project/test\_cases/`](./04\_final\_project/test\_cases/)  
 
-3\. \*\*Check the bug reports\*\* → \[`04\_final\_project/bug\_reports/`](./04\_final\_project/bug\_reports/)
+3\. \*\*Check the bug reports\*\* → \[`04\_final\_project/bug\_reports/`](./04\_final\_project/bug\_reports/)  
 
-4\. \*(Optional)\* Import the Postman collection and run API checks locally.
+4\. \*(Optional)\* Import the Postman collection and run API checks locally.  
 
 5\. Review evidence \& practice materials for coverage and consistency.
 
@@ -153,4 +171,6 @@ manual\_testing\_portofolio/
 > Note: Former forked templates/examples were consolidated here for clarity.  
 
 > Older forks are archived and point back to this canonical repository.
+
+
 
