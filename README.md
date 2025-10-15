@@ -56,7 +56,7 @@ manual_testing_portofolio/
 
 - **Execution Evidence**  
   Summary: [`Dependents_cycle_summary_execution.pdf`](./04_final_project/docs/Dependents_cycle_summary_execution.pdf)  
-  Extra practice artifacts in [`evidence/`](./04_final_project/evidence/) and `03_bugs_reports/`.
+  Extra practice artifacts in [`evidence/`](./04_final_project/evidence/) and [`03_bugs_reports/`].
 
 ---
 
