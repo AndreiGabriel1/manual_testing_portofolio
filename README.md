@@ -58,9 +58,9 @@ manual\_testing\_portofolio/
 
 └─ 99\_templates/ # reusable templates
 
-
-
 ---
+
+
 
 \## ✨ Highlights
 
@@ -171,6 +171,4 @@ manual\_testing\_portofolio/
 > Note: Former forked templates/examples were consolidated here for clarity.  
 
 > Older forks are archived and point back to this canonical repository.
-
-
 
