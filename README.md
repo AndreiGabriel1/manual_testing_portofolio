@@ -29,7 +29,7 @@ manual_testing_portofolio/
 │  ├─ bug_reports/            # consolidated bug reports
 │  └─ evidence/               # execution evidence (screens / PDFs)
 └─ 99_templates/              # reusable templates
-
+```
 ---
 
 ## ✨ Highlights
